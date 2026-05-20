@@ -1,10 +1,3 @@
-"""
-Lost & Found Matching System
-============================
-A system to intelligently match lost item reports with found item reports
-based on description similarity, color, location, and time relevance.
-"""
-
 from datetime import datetime
 
 # ---------- SAMPLE DATA ----------
